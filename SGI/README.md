@@ -1,0 +1,1 @@
+Pràctiques avaluables de SGI
