@@ -12,4 +12,4 @@ V/v: activa / desactiva modo alta velocidad. Aceleraras y giraras mucho mas!\
 H/h: activa / desactiva la vista de aguila\
 W/w: cambia el vehiculo\
 R/r: resetea y vuelve al modo inicial\
-P/p: guarda una captura de pantalla\
+P/p: guarda una captura de pantalla
