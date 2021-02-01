@@ -1,0 +1,10 @@
+20   1  0.670 [0.510,0.830]
+20   2  0.447 [0.316,0.578]
+20   5  0.171 [0.090,0.252]
+20  10  0.086 [0.028,0.143]
+20  20  0.053 [0.008,0.098]
+20  30 0.044 [0.003 0.085]
+20  40 0.041 [0.001 0.080]
+20  50 0.035 [-0.001 0.072]
+
+Hem tingut dificultats pq els 3 últims valors no els hem pogut obtindre amb l'escriptori remot (hem executat en el local)
